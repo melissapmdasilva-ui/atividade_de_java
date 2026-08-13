@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\melis\OneDrive\Área de Trabalho\eclipse\mes.pa\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1084336406.index
+3262313636.index
